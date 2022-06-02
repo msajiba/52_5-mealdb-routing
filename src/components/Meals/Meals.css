@@ -1,0 +1,20 @@
+.items {
+    margin: 5px 30px;
+    text-align: center;
+    box-shadow: 4px 4px 10px gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.items img {
+    width: 100%;
+}
+
+.items button {
+    display:flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(54, 184, 21);
+    border-radius: 5px;
+}
